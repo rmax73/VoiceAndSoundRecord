@@ -28,6 +28,7 @@ When Record is hit, the programme records both desktop audio and the selected mi
 
 # Thanks
 Sincere thanks are needed to the following people:
-2. Chuckie (Craig) and Dump (Mark) for flying with me and testing the CVR
-1. Tim Davies for creating Shadowlands, support VR pilots through a professional training programme and supporting initiatives such as this.
+
+1. Chuckie (Craig) and Dump (Mark) for flying with me and testing the CVR
+2. Tim Davies for creating Shadowlands, support VR pilots through a professional training programme and supporting initiatives such as this.
 
